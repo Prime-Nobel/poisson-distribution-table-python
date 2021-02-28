@@ -17,5 +17,5 @@ The inter arrival time is the time between each arrival into the system and the 
 
 
 
-# Poisson-distribution-table and Inter-Arrival-Time-Table
+Poisson-distribution-table and Inter-Arrival-Time-Table
 given with example
